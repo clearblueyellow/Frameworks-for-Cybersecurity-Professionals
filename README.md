@@ -1,1 +1,1 @@
-# CVEs-for-Cybersecurity-Professionals
+# CVEs for Cybersecurity Professionals
